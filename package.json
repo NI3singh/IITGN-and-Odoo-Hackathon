@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "twitter-api-v2": "^1.18.1",
+    "twitter-lite": "^1.1.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "iitgn_hackathon",
+  "version": "1.0.0",
+  "main": "script.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
